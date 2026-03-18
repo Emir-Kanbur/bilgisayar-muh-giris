@@ -1,19 +1,44 @@
-# 🎓 Bilgisayar Mühendisliğine Giriş
+# Bilgisayar Mühendisliğine Giriş
 
-<div align="center">
+Bu depo, **Bilgisayar Mühendisliğine Giriş** dersi kapsamında hazırlanan çalışmaların düzenli ve takip edilebilir şekilde saklanması için oluşturulmuştur.
 
-![Computer Engineering](https://img.shields.io/badge/Ders-Bilgisayar%20Mühendisliğine%20Giriş-blue?style=for-the-badge&logo=bookstack)
-![Student](https://img.shields.io/badge/Öğrenci-Emir%20Kanbur-green?style=for-the-badge&logo=person)
-![ID](https://img.shields.io/badge/No-16008125024-orange?style=for-the-badge&logo=id-card)
+## İçerik
 
-</div>
+- Ders notları
+- Ödev ve proje dosyaları
+- Gerekli açıklamalar ve kaynaklar
 
----
+## Öğrenci Bilgileri
 
-## 👤 Öğrenci Bilgileri
+| Bilgi | Detay |
+|---|---|
+| Ad Soyad | Emir Kanbur |
+| Bölüm | Bilgisayar Mühendisliği |
 
-| **Bilgi**      | **Detay**               |
-| -------------- | ----------------------- |
-| **Ad Soyad**   | Emir Kanbur             |
-| **Öğrenci No** | 16008125024             |
-| **Bölüm**      | Bilgisayar Mühendisliği |
+## Depo Yapısı
+
+İlerleyen süreçte içerikler aşağıdaki gibi organize edilecektir:
+
+```text
+.
+├── README.md
+├── notes/
+├── assignments/
+└── projects/
+```
+
+## Kullanım
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/<kullanici-adi>/bilgisayar-muh-giris.git
+   ```
+2. Klasöre girin:
+   ```bash
+   cd bilgisayar-muh-giris
+   ```
+3. İlgili haftanın/ödevin klasörüne giderek içerikleri inceleyin.
+
+## Katkı
+
+Bu depo kişisel ders arşivi amaçlıdır. Hata veya iyileştirme önerileri için Issue açabilirsiniz.
