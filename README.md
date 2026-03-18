@@ -7,4 +7,5 @@ Bu depo, **Bilgisayar Mühendisliğine Giriş** dersi kapsamında hazırlanmış
 | Bilgi | Detay |
 |---|---|
 | Ad Soyad | Emir Kanbur |
+| Öğrenci No | 16008125024 | 
 | Bölüm | Bilgisayar Mühendisliği |
